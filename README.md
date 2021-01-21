@@ -5,6 +5,6 @@
 <br>
 <h2> Página inicial </h2>
 <h1 align="center">
-  <img alt="Página Inicial" title="Página Inicial" src="./screenshots/index.jpg" />
+  <img alt="Página Inicial" title="Página Inicial" src="./screenshots/index.png" />
 </h1>
 <h2>Página de pedidos</h2>
