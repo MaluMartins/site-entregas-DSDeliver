@@ -8,3 +8,10 @@
   <img alt="Página Inicial" title="Página Inicial" src="./index.png" />
 </h1>
 <h2>Página de pedidos</h2>
+<h1 align="center">
+  <img alt="Página de Pedidos" title="Página de Pedidos" src="./orderspage.png" />
+</h1>
+<h4>Tecnologias utilizadas na construção do projeto: </h4>
+<li>
+  <ul>ReactJS</ul>
+  <ul>Typescript</ul>
