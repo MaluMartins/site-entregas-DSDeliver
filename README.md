@@ -12,6 +12,7 @@
   <img alt="Página de Pedidos" title="Página de Pedidos" src="./orderspage.png" />
 </h1>
 <h4>Tecnologias utilizadas na construção do projeto: </h4>
-<li>
-  <ul>ReactJS</ul>
-  <ul>Typescript</ul>
+<ul>
+  <li>ReactJS</li>
+  <li>Typescript</li>
+</ul>
